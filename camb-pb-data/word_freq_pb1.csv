@@ -1,0 +1,670 @@
+,Count,Word
+0,2,floor
+1,2,o'connell library
+2,1,rug
+3,1,air conditioner
+4,5,table
+5,2,furniture
+6,2,branch
+7,3,cambridge public library
+8,8,central square
+9,1,library improvement
+10,4,improvement
+11,4,library
+12,1,neighborhood library
+13,4,tool
+14,1,item
+15,1,checkout
+16,1,amphitheater
+17,1,library park
+18,1,play
+19,1,movie
+20,2,music
+21,1,daylighting
+22,1,stairwell
+23,2,main library
+24,1,library branch
+25,1,boardman street
+26,1,bookmobile
+27,1,gaming space
+28,1,variety
+29,1,book house
+30,2,book
+31,4,child
+32,4,lot
+33,1,tot
+34,6,school
+35,2,makerspace
+36,1,career resource
+37,1,training kitchen
+38,1,resource center
+39,1,jackson garden
+40,1,pod
+41,2,land
+42,14,cambridge
+43,1,partner
+44,1,developer
+45,7,housing
+46,11,city
+47,1,day center
+48,3,person
+49,8,tree
+50,1,infrastructure
+51,2,foundry building
+52,1,homeless shelter
+53,1,broadband system
+54,12,wifi
+55,1,property
+56,1,work
+57,1,square
+58,2,newtowne court
+59,4,app
+60,4,entrance
+61,1,route
+62,7,building
+63,2,facility
+64,3,family
+65,2,information
+66,1,money matter
+67,1,permit application proces
+68,1,fire dept
+69,2,line
+70,1,digitize property file
+71,2,structure
+72,1,art wall
+73,1,graffitus
+74,1,volunteer gap
+75,1,tax
+76,1,relationship
+77,1,city/institution
+78,1,equipment for the youth center
+79,1,youth center
+80,1,anywhere
+81,1,mural
+82,3,russell field
+83,1,community
+84,3,recycling
+85,2,option
+86,1,community availability
+87,2,meeting
+88,9,space
+89,3,community space
+90,1,group
+91,1,organization
+92,1,practice room
+93,1,room
+94,1,art display
+95,1,performance
+96,1,block party
+97,1,police presentation
+98,1,event
+99,1,community repair
+100,1,replacement
+101,1,species
+102,1,neighborhood discussion
+103,1,topic
+104,2,place
+105,1,some
+106,1,time
+107,1,more
+108,4,cambridge street
+109,1,holiday lighting program
+110,1,monument
+111,1,civil war
+112,1,twinkle light
+113,12,lighting
+114,1,fixture
+115,1,architecture
+116,5,city hall
+117,1,curtain
+118,3,harvard square
+119,9,light
+120,1,fresh pond golf course
+121,1,billboard sign
+122,5,front
+123,1,video sign
+124,2,community bulletin board
+125,1,fund summertime activity
+126,1,piano vent
+127,1,vellucci plaza
+128,1,laptop
+129,2,community learning center
+130,1,cookery school
+131,1,kid
+132,1,recording
+133,1,dance
+134,1,music space
+135,1,studio
+136,1,public
+137,1,kiosk
+138,1,post office
+139,1,gift
+140,1,wind
+141,1,porter t station
+142,2,sculpture
+143,2,art
+144,1,artist
+145,1,flag
+146,3,one
+147,1,cambridgeport school
+148,1,camera
+149,1,city manager
+150,1,council
+151,1,staff
+152,1,meet
+153,1,cdd
+154,1,wit
+155,1,community photo booth
+156,1,gordon ramsey
+157,1,school lunch cook
+158,2,school lunch
+159,1,clas
+160,1,cook
+161,1,cp
+162,1,health curriculum
+163,1,amigos middle school
+164,1,taxis
+165,1,amount
+166,1,collection
+167,1,citizen park
+168,7,park
+169,1,performance venue
+170,1,theater
+171,1,sennot park
+172,2,danehy
+173,1,neglected public space
+174,3,use
+175,1,money
+176,1,adult education
+177,13,area
+178,1,street performer
+179,1,school supply
+180,1,peabody parks school
+181,1,mapping building
+182,1,sale
+183,1,community spaces ground level
+184,1,class
+185,1,senior citizen
+186,1,senior center bathroom
+187,3,neighborhood
+188,1,participation
+189,4,community garden
+190,1,donnelly field
+191,4,garden
+192,1,peace
+193,1,stone
+194,1,swing set
+195,1,roof garden
+196,1,north cambridge community garden
+197,1,garden bed
+198,1,periphery
+199,1,upgrade
+200,3,raymond park
+201,1,walden st.
+202,1,school garden
+203,1,whittemore avenue community garden
+204,1,pemberton
+205,1,rain garden
+206,1,bioswale
+207,1,paving
+208,2,median
+209,5,mass ave
+210,1,solar panel
+211,2,apartment
+212,1,daniel f. burn
+213,2,panel
+214,1,store
+215,1,battery
+216,1,community solar
+217,1,help
+218,1,start-up
+219,1,installation
+220,1,electricity production
+221,1,district geothermal
+222,1,energy efficiency upgrade
+223,1,filter
+224,1,neighborhood sustainability
+225,2,fire truck
+226,1,tow truck
+227,2,ambulance
+228,1,city specialty truck
+229,1,warming
+230,1,impact
+231,2,wetland
+232,3,signage
+233,1,onsite signage
+234,1,vehicle
+235,1,capacity
+236,1,truck
+237,7,street
+238,1,recycling wastebasket
+239,1,fulmore park
+240,11,playground
+241,1,funding
+242,1,street tree
+243,1,woodland restoration project
+244,4,fresh pond
+245,3,parking lot
+246,3,fence
+247,1,tokyo
+248,2,vassal lane
+249,1,freshpond
+250,1,pruning
+251,2,wire
+252,1,planter
+253,1,business district
+254,9,inman square
+255,5,bathroom
+256,6,restroom
+257,1,flowers/planter
+258,1,island
+259,1,mass ave median strip
+260,1,avenue
+261,1,middle
+262,1,phone charging station
+263,1,capital improvement idea
+264,1,neighborhood planning process
+265,2,idea
+266,1,loan fund
+267,1,mine
+268,1,water bubbler
+269,1,area iv youth center
+270,1,drinking fountain
+271,11,intersection
+272,1,install bathroom
+273,2,riverside park
+274,5,mas
+275,1,coop
+276,1,subway
+277,1,train station
+278,1,trash barrel
+279,1,drunk
+280,1,liquor bottle
+281,1,calling system
+282,2,shower room
+283,2,homeles
+284,2,polouse
+285,2,walking
+286,2,security camera
+287,4,shelter
+288,1,water bottle fill station
+289,1,site
+290,1,place generator
+291,1,emergency response
+292,3,resident
+293,1,need
+294,1,repair flooding problem
+295,3,t station
+296,1,shower
+297,1,belonging
+298,1,water fountain
+299,1,smoking area
+300,2,guard rail
+301,3,track
+302,1,establishment
+303,1,graciously allow the public
+304,3,dog park
+305,1,mid-cambridge
+306,2,dog
+307,1,sacramento field
+308,1,leash dog park
+309,1,portion
+310,1,city hall lawn
+311,15,bench
+312,1,dog area
+313,1,a multitude of dog leash law sign
+314,1,cambridge city park
+315,1,pet
+316,1,larch
+317,2,play area
+318,1,clarendon ave
+319,1,tot lot/park
+320,1,lowell park
+321,1,oppressive barrier
+322,1,parkway
+323,1,park entrance
+324,2,walden street
+325,2,tobin
+326,1,elementary school
+327,1,play structure
+328,1,school park
+329,1,amigo
+330,1,fma
+331,1,amigos school
+332,1,park renovation
+333,1,safety light
+334,1,school playground
+335,1,cambridgeport
+336,1,acroo
+337,1,lincoln way
+338,1,football field
+339,1,danehy park
+340,1,renovate playground
+341,1,glacken field
+342,2,field condition
+343,1,water feature
+344,1,swing
+345,1,peabody school park
+346,1,swimming pool
+347,1,mlk school
+348,1,larch park
+349,2,linear park
+350,1,a public park
+351,1,capital idea
+352,1,vellucci park
+353,3,path
+354,1,fresh pond circle
+355,1,light sensor
+356,1,surface repair
+357,1,tennis court
+358,1,hoyt field
+359,1,vest-pocket park
+360,1,leslie university porter square
+361,2,part
+362,1,dpw
+363,1,playground/park
+364,1,view
+365,1,jerry's pond
+366,3,north cambridge
+367,1,picnic bench
+368,4,chair
+369,1,lawn
+370,1,turf
+371,2,sennott park
+372,1,educational park
+373,1,magazine beach
+374,1,experience
+375,1,play/climbing area
+376,1,magazine beach park
+377,1,fitness park
+378,1,exercise equipment
+379,1,stayfitcambridge
+380,1,body
+381,1,fitness station
+382,1,bar
+383,1,indoor playspace
+384,1,motor toy
+385,1,parent
+386,1,camb
+387,1,winter fun
+388,1,caregive
+389,1,ping pong
+390,1,grill
+391,1,concrete ping-pong
+392,1,gym
+393,1,basket
+394,1,backboard
+395,1,fountain
+396,1,b
+397,1,basketball court
+398,1,condition
+399,2,seating
+400,1,softball field
+401,1,dugout
+402,1,corporal burn
+403,1,park user
+404,1,eagle sculpture
+405,1,bulfinch place
+406,1,centanni park
+407,1,walking trail guide
+408,1,map
+409,1,paper
+410,1,walk
+411,2,length
+412,1,loop
+413,1,dj station
+414,8,solar
+415,2,project
+416,1,t pass
+417,1,senior
+418,1,income
+419,1,student
+420,1,red line
+421,1,pass
+422,1,footbridge
+423,1,train track
+424,1,fawcett
+425,2,alewife t
+426,2,transportation
+427,1,harvard t station
+428,2,bus
+429,1,the ride
+430,3,bu
+431,1,sherman street
+432,1,tv moniter
+433,1,tablet
+434,3,bus stop
+435,5,sign
+436,4,bus shelter
+437,1,bike path
+438,3,charles river
+439,1,replacement bus shelter
+440,1,rindge ave & comeau field
+441,1,bus route
+442,1,bridge
+443,4,harvard
+444,2,gate
+445,1,bus stop shelter
+446,1,screen
+447,1,rubber bench seat
+448,1,element
+449,1,protection
+450,1,cross town
+451,3,bike
+452,12,bike lane
+453,1,east cambridge
+454,1,ailwife
+455,4,cycle track
+456,1,river street
+457,1,bicycle signage
+458,1,bicyclist
+459,1,traffic rule
+460,1,bike air pump
+461,1,central square branch library
+462,2,webster ave
+463,2,prospect street
+464,6,bike rack
+465,1,education bike signage
+466,1,bicycle parking
+467,1,program
+468,1,biker
+469,1,driver
+470,1,biker's ed
+471,1,western ave
+472,1,grand junction
+473,9,sidewalk
+474,2,windsor
+475,3,hampshire
+476,1,grand boulevard
+477,1,bike parking
+478,1,harvard bridge
+479,1,bikelane
+480,1,ave-rt
+481,1,porter
+482,1,road line
+483,4,road
+484,1,center
+485,2,car
+486,3,lane
+487,3,ave
+488,1,pedestrian
+489,1,bicycle
+490,1,memorial drive
+491,1,name
+492,1,bicycle path
+493,1,mit alumnu
+494,1,neighborway
+495,1,harvard street
+496,1,pedestrian mall
+497,1,jfk
+498,1,gras
+499,2,traffic calming
+500,7,crosswalk
+501,1,material
+502,1,tree root
+503,2,traffic
+504,1,pedestrian problem
+505,2,inman sq
+506,2,speed bump
+507,2,line street
+508,1,massachusett
+509,2,way
+510,1,responsibility
+511,1,snowplowing sidewalk
+512,1,re-paint
+513,1,fire lane
+514,1,dpw yard
+515,1,repair pothole
+516,2,fresh pond parkway
+517,1,tremont
+518,1,carlisle
+519,1,repave sherman st
+520,1,traffic guard
+521,1,redesign intersection
+522,1,rindge ave
+523,1,sherman st
+524,1,redesign
+525,1,memorial drive section
+526,1,side
+527,1,central sq
+528,3,traffic light
+529,1,porter square
+530,1,shopping plaza
+531,1,cross walk
+532,1,magazine street
+533,1,banner
+534,1,wayfinding
+535,1,district
+536,1,a-block
+537,1,shading option
+538,1,public realm
+539,1,marking
+540,4,broadway
+541,1,traffic light timing
+542,1,rush houe
+543,1,change
+544,1,night
+545,1,build sidewalk
+546,1,timing
+547,1,cycle
+548,1,crossing
+549,1,biking
+550,1,city line
+551,1,sommerville
+552,1,roseland street
+553,1,re-do
+554,1,re-design
+555,1,headhouse
+556,1,russell field house
+557,1,traffic light-corner
+558,1,field & fern
+559,1,fern
+560,1,concord
+561,1,crossing guard
+562,1,a raised intersection at trowbridge
+563,1,wayfinding assessment
+564,1,solution
+565,1,white street
+566,1,porter square gallerium
+567,1,shopping center
+568,1,crosswalk warning light
+569,1,garfield street
+570,1,crosswalk warning sign
+571,3,corner
+572,1,fresh pond pkwy
+573,1,curb extension
+574,1,signal
+575,1,walk signal
+576,1,arlington
+577,1,st. john's church
+578,1,heave
+579,1,brick sidewalk
+580,1,mass ave & western ave
+581,1,h&r block
+582,1,crosswalk light
+583,1,park seating
+584,1,hole
+585,1,teen
+586,2,snow
+587,1,pedestrian intersection
+588,1,basin
+589,3,safety
+590,1,brattle/craigie/sparks street
+591,1,camb/spring
+592,1,beacon
+593,1,mass ave & garden st
+594,1,dawes island
+595,1,pedestrian push button signal
+596,1,bbn
+597,2,traffic garden
+598,1,install sidewalk
+599,1,location
+600,1,slope
+601,1,bottom
+602,2,huron ave
+603,1,fayerweather street
+604,1,utility wire
+605,1,fern street
+606,1,streetscape improvement
+607,1,pavement
+608,1,travel lane
+609,1,health
+610,1,cambridge boat club
+611,1,traffic flow
+612,1,cambridge st. & hampshire st
+613,1,beacon st.
+614,1,priority traffic signal
+615,1,phone call
+616,5,parking
+617,1,traffic signal
+618,1,vehicle emission
+619,1,road signage
+620,1,ellery
+621,1,stop sign
+622,1,banks street
+623,1,better public space
+624,1,street cleaning
+625,1,school crossing guard
+626,1,fletcher maynard academy
+627,1,meter
+628,2,city lot
+629,3,parking meter
+630,1,surface
+631,1,restore parkland
+632,1,congestion pricing
+633,1,fee
+634,1,parking permit
+635,1,norfolk street parking lot
+636,1,standing zone
+637,1,car length
+638,1,n
+639,1,elm
+640,1,parking space
+641,1,bus berth
+642,1,harvard plaza
+643,2,street light
+644,1,hancock street
+645,1,central
+646,1,tri corner
+647,1,magazine
+648,1,pathway
+649,1,commuter rail track
+650,1,living light
+651,1,all
+652,1,on rindge ave.
+653,1,number
+654,1,cros
+655,1,sherman st.
+656,1,night lighting
+657,1,statue
+658,1,conjunction
+659,1,toilet
+660,1,charles sumner
+661,1,street lighting improvement
+662,1,signg
+663,1,proces
+664,1,thing
+665,1,building permit proces
+666,1,neighbor person
+667,1,life
+668,1,paperwork
